@@ -1,0 +1,33 @@
+/* styles/board.css */
+
+/* 게시글 카드 스타일 */
+.board-card {
+    border: 1px solid #dee2e6; /* 밝은 회색 테두리 */
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: white; /* 흰색 배경 */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* 미세한 그림자 */
+  }
+  
+  /* 게시글 제목 스타일 */
+  .board-title {
+    font-size: 1.5rem;
+    color: #007bff; /* 파란색 */
+  }
+  
+  /* 게시글 내용 스타일 */
+  .board-content {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+  }
+  
+  /* 버튼 스타일 (게시글) */
+  .board-button {
+    background-color: #28a745; /* 초록색 */
+  }
+  
+  .board-button:hover {
+    background-color: #218838; /* 어두운 초록색 */
+  }
+  
